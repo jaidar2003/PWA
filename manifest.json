@@ -1,0 +1,17 @@
+{
+  "name": "Mi PWA de Demo",
+  "short_name": "DemoPWA",
+  "description": "Una PWA de ejemplo que consume una API.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#007BFF",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+    /* Puedes agregar más tamaños (ej. 512x512) */
+  ]
+}
